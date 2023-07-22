@@ -2,4 +2,8 @@ hello git
 second
 test3 한글입력 이상해요
 fourth - my branch
+<<<<<<< HEAD
 긴급 수혈 
+=======
+기능 1 추가 
+>>>>>>> 5953392 ("featuer 기능 1추가 ")
